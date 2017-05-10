@@ -3,7 +3,7 @@
 
 :construction: This is very much a work in progress :construction:
 
-###Overview
+### Overview
 
 This is a 360 video viewer for iOS, implemented using [SceneKit](https://developer.apple.com/library/ios/documentation/SceneKit/Reference/SceneKit_Framework/).
 
@@ -14,9 +14,9 @@ Currently, the player supports:
 - Spherical equirectangular monoscopic video
 - Spherical equirectangular stereoscopic top/bottom video (note: much work still to do on stereo configuration) 
 
-###Usage
+### Usage
 
-####To build the demo
+#### To build the demo
 
 Clone the repo: 
 
@@ -30,7 +30,7 @@ Open the `ThreeSixtyPlayer.xcworkspace` and build the `Demo-iOS` target.
 
 💥💥💥 
 
-####To consume as a Cocoapod
+#### To consume as a Cocoapod
 
 Add this to your podfile: 
 
